@@ -25,7 +25,7 @@ To install flutter follow this link: https://flutter.dev/docs/get-started/instal
 
 When open your app you can see the Home page:
 
-![](images/home.png)  ![](images/app.png)
+![](images/app.png)
 
 You can add image from gallery or camera of your device and then, you can resize, rotate of 90° or swipe to rotate for all degree: 
 
