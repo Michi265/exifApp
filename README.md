@@ -17,6 +17,16 @@ flutter pub get
 ```bash
 flutter run 
 ```
+### Installation
+
+You can find app in:
+```bash
+exifApp/apk/app-release.apk
+```
+Or you can execute the following command in console:
+```bash
+flutter build apk
+```
 ### Prerequisites
 
 To install flutter follow this link: https://flutter.dev/docs/get-started/install
