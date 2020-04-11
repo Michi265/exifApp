@@ -23,15 +23,10 @@ To install flutter follow this link: https://flutter.dev/docs/get-started/instal
 
 ## Exif Viewer App
 
-When open your app you can see the Home page:
+When open the app you can see the Home page:
 
 ![](images/app.png)
 
-You can add image from gallery or camera of your device and then, you can resize, rotate of 90° or swipe to rotate for all degree: 
-
-![](images/resize.png) ![](images/rotate.png) ![](images/swipe.png)
-
-When you choose an image, below there are all metadata and if there ara GPS data, you can see in maps:
-
+Here you can add image from gallery or camera of your device and then, you can resize, rotate of 90° or swipe to rotate for all degree. When you choose an image, below there are all metadata and if there ara GPS data, you can see on Google Maps:
 
 ![](images/data.png) ![](images/map.png)
