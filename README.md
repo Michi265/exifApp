@@ -5,9 +5,9 @@ Image + Exif Viewer (techincal mini-project for human computer interaction cours
 
 #### Step 1: 
 Download or clone this repo by using the link below:
-```bash
+
 https://github.com/Michi265/exifApp.git
-```
+
 #### Step 2: 
 Go to project root and execute the following command in console to get the required dependencies:
 ```bash
@@ -20,9 +20,9 @@ flutter run
 ### Installation
 
 You can find apk in:
-```bash
+
 https://github.com/Michi265/exifApp/tree/master/apk
-```
+
 Or you can execute the following command in console:
 ```bash
 flutter build apk
