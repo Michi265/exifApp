@@ -19,7 +19,7 @@ flutter run
 ```
 ### Installation
 
-You can find app in:
+You can find apk in:
 ```bash
 exifApp/apk/app-release.apk
 ```
