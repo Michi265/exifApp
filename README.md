@@ -22,4 +22,4 @@ flutter run
 To install flutter follow this link: https://flutter.dev/docs/get-started/install
 
 
-(resize.png)
+(https://github.com/Michi265/exifApp.git/images/resize.png)
