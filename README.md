@@ -7,7 +7,7 @@ Step 1:
 
 Download or clone this repo by using the link below:
 
-
+https://github.com/Michi265/exifApp.git
 
 Step 2:
 
