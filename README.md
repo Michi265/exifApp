@@ -29,7 +29,7 @@ When open the app you can see the Home page:
 
 Here you can add image from gallery or camera of your device and then, you can resize, rotate of 90° or swipe to rotate for all degree. 
 
-![](images/home.png)
+![](images/desert.png)
 
 When you choose an image, below there are all metadata and if there ara GPS data, you can see on Google Maps:
 
