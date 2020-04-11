@@ -153,30 +153,6 @@ class _HomeState extends State<Home> {
   Future<void> openMap(LinkableElement link) async {
 
     imgTags = await readExifFromBytes(File(_image.path).readAsBytesSync());
-    /*
-    if ((imgTags['GPS GPSLatitude']) != null) {
-
-      final latitudeValue = imgTags['GPS GPSLatitude'].values.map<double>((item)
-      => (item.numerator.toDouble() / item.denominator.toDouble())).toList();
-
-      final latitudeSignal = imgTags['GPS GPSLatitudeRef'].printable;
-
-      final longitudeValue = imgTags['GPS GPSLongitude'].values.map<double>((item)
-      => (item.numerator.toDouble() / item.denominator.toDouble())).toList();
-
-      final longitudeSignal = imgTags['GPS GPSLongitudeRef'].printable;
-
-      latitude = latitudeValue[0]
-          + (latitudeValue[1] / 60)
-          + (latitudeValue[2] / 3600);
-
-      longitude = longitudeValue[0]
-          + (longitudeValue[1] / 60)
-          + (longitudeValue[2] / 3600);
-
-      if (latitudeSignal == 'S') latitude = -latitude;
-      if (longitudeSignal == 'W') longitude = -longitude;
-*/
      if (imgTags['GPS GPSLatitude'] == null) {
 
       latitude = null;
