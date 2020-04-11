@@ -21,7 +21,7 @@ flutter run
 
 You can find apk in:
 ```bash
-exifApp/apk/app-release.apk
+https://github.com/Michi265/exifApp/tree/master/apk
 ```
 Or you can execute the following command in console:
 ```bash
