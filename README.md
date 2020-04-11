@@ -20,6 +20,3 @@ flutter run
 ### Prerequisites
 
 To install flutter follow this link: https://flutter.dev/docs/get-started/install
-
-
-(https://github.com/Michi265/exifApp.git/images/resize.png)
