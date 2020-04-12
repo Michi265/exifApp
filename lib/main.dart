@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'AgeMob User',
+      title: 'Exif Image Viewer',
       theme: ThemeData(
         primaryColor: Colors.white,
       ),
